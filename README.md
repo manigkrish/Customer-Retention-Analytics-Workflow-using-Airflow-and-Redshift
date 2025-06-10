@@ -53,7 +53,7 @@ Here is the dataset used in the project - https://www.kaggle.com/datasets/yeanzc
 #### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Siva-Sanam/CustomerChurn_Analytics_with_Airflow-AWSGlue_Redshift.git
+   git clone https://github.com/manigkrish/Customer-Retention-Analytics-Workflow-using-Airflow-and-Redshift.git
    ```
 2. Configure AWS credentials in Airflow.
 3. Upload raw customer data to S3.
